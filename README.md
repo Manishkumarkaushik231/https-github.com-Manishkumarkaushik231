@@ -1,33 +1,3 @@
-pro and professional coder GitHub Profile README Generator
-
-तैयार है — मैंने Pro & Professional GitHub Profile README Generator बनाया है।
-
-इसमें शामिल हैं:
-
-Live GitHub README Preview
-Professional profile, bio और headline
-Tech Stack sections
-LinkedIn, X, YouTube, Website, Email links
-Featured Projects dynamically add/remove
-GitHub Stats
-Streak Stats
-Top Languages
-Contribution Graph
-Typing SVG banner
-Services / Expertise section
-One-click Copy Markdown
-Download README.md
-Browser में automatic local save
-Demo profile loader
-Responsive professional UI
-डाउनलोड करें
-
-🚀 Pro GitHub README Generator — ZIP
-
-🌐 Direct index.html
-
-इसे सीधे index.html खोलकर इस्तेमाल किया जा सकता है। GitHub Pages पर डालकर इसे अपना online README generator website भी बनाया जा सकता है। 
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -459,5 +429,3 @@ $('demoBtn').onclick=()=>{
 </script>
 </body>
 </html>
-index.html
-HTML
